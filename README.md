@@ -1,4 +1,4 @@
-<h1 align="center"> Previsão do tempo </h1>
+<h1 align="center"> Relógio </h1>
 
 App de previsão do tempo criada utilizando React JS, React Hook, Tailwind CSS, com base nos ensinamentos do vídeo - [Como criar um relógio com HTML, CSS e JavaScript #html #css #javascript](https://youtu.be/FJGNnYG50gA) do canal [@ManualdoDev](https://www.youtube.com/@ManualdoDev) no Youtube. 
 
